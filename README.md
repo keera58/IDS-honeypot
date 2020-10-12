@@ -1,4 +1,4 @@
-# web-security
+# IDS-honeypot
 
 In this project, I setup my own Network Intrusion Detection System using a Raspberry Pi Honeypot.
 
