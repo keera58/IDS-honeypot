@@ -1,3 +1,3 @@
 # web-security
 
-This project tests out common OWASP vulnerabilities such as CSRF, XSS and SQL injection on a tourism website.
+In this project, I setup my own Network Intrusion Detection System using a Raspberry Pi Honeypot
